@@ -23,3 +23,8 @@ pandas, sklearn, numpy, flask, lightgbm
 * Adiponectin(float64)
 * Resistin(float64)
 * MCP(float64)
+
+
+Модель: lightgbm
+
+Клонируем репозиторий и создаем образ
