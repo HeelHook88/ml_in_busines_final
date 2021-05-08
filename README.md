@@ -2,5 +2,5 @@
 
 # Итоговый проект
 
-# Стек:
+### Стек:
 pandas, sklearn, numpy, flask, lightgbm
