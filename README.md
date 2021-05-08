@@ -11,3 +11,15 @@ pandas, sklearn, numpy, flask, lightgbm
 Задача: предсказать Рак молочной железы
 
 Целевая переменная: target
+
+Используемые признаки:
+
+* Age(int64)
+* BMI(float64) 
+* Glucose(int64)
+* Insulin(float64)
+* HOMA(float64)
+* Leptin(float64)
+* Adiponectin(float64)
+* Resistin(float64)
+* MCP(float64)
